@@ -16,5 +16,12 @@ namespace AppEjerciciosBucles
         {
             InitializeComponent();
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            int limite = int.Parse(this.txtLimite.Text);
+            string cad = Funciones.EjemploBucle.saludar(limite);
+            this.txtResultado.Text = cad;
+        }
     }
 }
