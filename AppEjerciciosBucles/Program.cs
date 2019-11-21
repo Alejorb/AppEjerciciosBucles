@@ -18,7 +18,7 @@ namespace AppEjerciciosBucles
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
             //Application.Run(new frmFactorial());
-            Application.Run(new frmBucleFor());
+            //Application.Run(new frmBucleFor());
         }
     }
 }
