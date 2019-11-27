@@ -53,7 +53,7 @@
             // 
             // txtResultado
             // 
-            this.txtResultado.Location = new System.Drawing.Point(231, 156);
+            this.txtResultado.Location = new System.Drawing.Point(211, 143);
             this.txtResultado.Multiline = true;
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.ReadOnly = true;

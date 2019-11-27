@@ -19,6 +19,7 @@ namespace AppEjerciciosBucles
             //Application.Run(new Form1());
             //Application.Run(new frmFactorial());
             //Application.Run(new frmBucleFor());
+            Application.Run(new frmNotasE());
         }
     }
 }
